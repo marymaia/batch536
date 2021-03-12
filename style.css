@@ -1,7 +1,15 @@
 body {
   font-family: Arial;
+  background-image: url('images/markus-spiske-cvBBO4PzWPg-unsplash.jpg');
+  background-size: 100%;
 }
 
+
+.all-content {
+  background-color: white;
+  width: 500px;
+  border-radius: 25px;
+}
 
 h1 {
   font-family: 'Molle', cursive;
